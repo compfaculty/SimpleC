@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1498120763 source:c:\users\33398\box sync\myprojects\last_lesson\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+

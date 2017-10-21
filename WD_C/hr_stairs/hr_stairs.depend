@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1498663474 source:c:\users\33398\box sync\myprojects\hr_stairs\main.c
+	<math.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<assert.h>
+	<limits.h>
+	<stdbool.h>
+

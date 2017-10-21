@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1494936476 source:c:\users\33398\box sync\myprojects\lesson1_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"utils.h"
+
+1494938536 c:\users\33398\box sync\myprojects\lesson1_1\utils.h
+
+1494935531 source:c:\users\33398\box sync\myprojects\lesson1_1\utils.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utils.h"
+
+1495460139 source:c:\users\33398\box sync\myprojects\sandisk\lesson1_1\myarrays.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"myarrays.h"
+
+1495460218 c:\users\33398\box sync\myprojects\sandisk\lesson1_1\myarrays.h
+
+1495460139 source:c:\users\33398\box sync\myprojects\sandisk\lesson1_1\mystring.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"mystring.h"
+
+1495460185 c:\users\33398\box sync\myprojects\sandisk\lesson1_1\mystring.h
+
+1495460698 source:c:\users\33398\box sync\myprojects\sandisk\lesson1_1\mystructures.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"mystructures.h"
+
+1495460615 c:\users\33398\box sync\myprojects\sandisk\lesson1_1\mystructures.h
+
+1495460139 source:c:\users\33398\box sync\myprojects\sandisk\lesson1_1\utils.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utils.h"
+
+1495458695 c:\users\33398\box sync\myprojects\sandisk\lesson1_1\utils.h
+
+1495968179 source:c:\users\33398\box sync\myprojects\sandisk\lesson1_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"utils.h"
+	"myarrays.h"
+	"mystring.h"
+	"mystructures.h"
+

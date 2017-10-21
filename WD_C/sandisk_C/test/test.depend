@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1495312090 source:c:\users\33398\box sync\myprojects\test\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
